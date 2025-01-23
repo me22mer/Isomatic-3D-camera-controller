@@ -60,7 +60,9 @@ Camera Controller/
 | Rotate      | Right Mouse Drag |
 
 ## License
-This project is licensed under the **MIT License**. Feel free to use and modify it for your needs!
+- You are free to use this code as inspiration.
+- Please do not copy it directly.
+- Crediting the author is appreciated.
 
 ## Credits ❤️
 
