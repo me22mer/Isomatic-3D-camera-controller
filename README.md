@@ -16,8 +16,9 @@ A flexible and customizable **Camera Controller** for Unity that supports **smoo
 3. Assign a target to `FollowAt` if needed.
 
 ## Setup
-1. Create an **empty GameObject** named `Camera Controller`.
-2. Move the **Main Camera** inside `Camera Controller`.
+1. Create an **empty GameObject** named `Camera Controller`
+In the hierarchy, create an empty GameObject named Camera Controller. This will be responsible for focusing the camera on a target object.
+2. Drag the `Main Camera` into the `Camera Controller` GameObject. Your hierarchy should look like this:
 
 ```
 Camera Controller/
