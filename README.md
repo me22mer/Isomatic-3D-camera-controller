@@ -28,8 +28,8 @@ Camera Controller/
    - Position: `x = 0, y = 0, z = 0`
    - Rotation: `x = 0, y = 0, z = 0`
 4. Set the **Transform** of `Main Camera` to:
+   - Position: `x = -25, y = 20, z = -25` (This is a suggested viewpoint; feel free to adjust for the best angle using the **Move Tool** blue arrow to adjust position be careful while moving.)
    - Rotation: `x = 30, y = 45, z = 0`
-   - Use the **Move Tool** (blue arrow) to adjust position (be careful while moving).
 5. Set the **Projection** of `Main Camera` to `Orthographic`.
 
 ## Usage
